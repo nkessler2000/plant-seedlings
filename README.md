@@ -8,7 +8,7 @@ To download the image data used in this analysis, install the Kaggle python modu
 
 To configure paths and other settings, adjust _settings.py_
 
-To create the converted images, install [GIMP](https://www.gimp.org) and the [BIMP](https://alessandrofrancesconi.it/projects/bimp/) plugin
+To create the converted images, install [GIMP](https://www.gimp.org) and the [BIMP](https://alessandrofrancesconi.it/projects/bimp/) plugin, then use the provided BIMP scripts in the `./bimp` folder of this repository.
 
 Please ensure that all required modules are installed. Use the inclded _requirements.txt_ file
 `pip install -r requirements.txt`
