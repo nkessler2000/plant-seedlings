@@ -2,7 +2,7 @@
 This repo is for a image classification analysis using Kaggle Plant Seedlings data provided by [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification)
 
 #### Results
-See [_Plant Seedling Classification - Results_](Plant%20Seedling%20Classification%20-%20Results.ipynb)
+See [_Plant Seedling Classification - Results_](Plant%20Seedling%20Classification%20-%20Results.ipynb) for summary of results.
 
 To download the image data used in this analysis, install the Kaggle python module and use command
 
