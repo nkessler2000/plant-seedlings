@@ -1,6 +1,7 @@
 train/
 alpha/
 colorized/
-colorized_2/
+green_yellow/
 maxrgb/
 *.zip
+*.pkl
