@@ -5,3 +5,5 @@ green_yellow/
 maxrgb/
 *.zip
 *.pkl
+__pycache__/
+.ipynb_checkpoints/
