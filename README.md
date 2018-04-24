@@ -8,9 +8,9 @@ To download the image data used in this analysis, install the Kaggle python modu
 
 `kaggle competitions download -c plant-seedlings-classification`
 
-To configure paths and other settings, adjust _settings.py_
+To configure paths and other settings, adjust `settings.py`
 
-To create the converted images, install [GIMP](https://www.gimp.org) and the [BIMP](https://alessandrofrancesconi.it/projects/bimp/) plugin, then use the provided BIMP scripts in the `./bimp` folder of this repository.
+To create the converted images, install [GIMP](https://www.gimp.org) and the [BIMP](https://alessandrofrancesconi.it/projects/bimp/) plugin, then use the provided BIMP scripts in the `./bimp_scripts` folder of this repository.
 
 Please ensure that all required modules are installed. Use the inclded _requirements.txt_ file
 
