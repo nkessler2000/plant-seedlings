@@ -1,5 +1,5 @@
 ### plant-seedlings
-This repo is for a image classification analysis using Kaggle Plant Seedlings data provided by [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification)
+This repo is for a image classification analysis using Plant Seedlings data provided by [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification) and _scikit-learn_ ensemble classifiers.
 
 #### Results
 See [_Plant Seedling Classification - Results_](Plant%20Seedling%20Classification%20-%20Results.ipynb) for summary of results.
@@ -16,3 +16,7 @@ Please ensure that all required modules are installed. Use the inclded _requirem
 
 `pip install -r requirements.txt`
 
+#### Future improvements
+Instead of using an external application, I want to try using built-in OpenCV function to apply image processing programatically. I also want to try to use a mask to isolate the plant part of the image, something I attempted with Gimp but could not easily automate.
+
+Further, scikit-learn ensemble methods may not be best suited for this task. I will try keras next as that library appears to yield better results with this type of data.
